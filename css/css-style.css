@@ -170,7 +170,7 @@ p {
 }
 
 .secondary-color {
-  background-color: #0857ff;
+  /* background-color: #0857ff; */
 }
 
 .color-blue {
@@ -695,7 +695,7 @@ h5 {
   -webkit-transition: all 400ms ease;
   transition: all 400ms ease;
   border-bottom: 1px solid #fff;
-  background: rgba(0, 74, 173, 0.25);
+  /* background: rgba(0, 74, 173, 0.25); */
 }
 
 .header .container {
@@ -1196,7 +1196,7 @@ h5 {
   padding-top: 160px;
   /* padding-bottom: 125px; */
   /* background-color: #0857FF; */
-  background: url(../image-new/back.gif);
+  /* background: url(../image-new/back.gif); */
   background-position: center;
   background-size: cover;
 }
